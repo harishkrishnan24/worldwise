@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
+    },
+    {
+      "id": "023b",
+      "cityName": "Charras",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-13T09:35:55.053Z",
+      "notes": "What a place",
+      "position": {
+        "lat": "45.55252525134013",
+        "lng": "0.43945312500000006"
+      }
+    },
+    {
+      "id": "ce22",
+      "cityName": "Charencey",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-13T09:38:54.135Z",
+      "notes": "",
+      "position": {
+        "lat": "48.66194284607008",
+        "lng": "0.7470703125000001"
+      }
+    },
+    {
+      "id": "4032",
+      "cityName": "Maillet",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-13T09:38:54.135Z",
+      "notes": "",
+      "position": {
+        "lat": "46.604167162931844",
+        "lng": "1.6699218750000002"
+      }
+    },
+    {
+      "id": "8a50",
+      "cityName": "Chittur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-13T09:40:23.287Z",
+      "notes": "",
+      "position": {
+        "lat": "10.487811882056695",
+        "lng": "76.70654296875001"
+      }
     }
   ]
 }
